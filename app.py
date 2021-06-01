@@ -1,7 +1,7 @@
 import math
 
 
-print("Hello! Welcome to Quad Equation Solver 0.01!")
+print("Hello! Welcome to Quad Equation Solver!")
 print("A basic Quad Equation looks like a*x^2+b*x+c")
 print("Please input the values for A, B and C!")
 
