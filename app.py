@@ -5,9 +5,9 @@ print("Hello! Welcome to Quad Equation Solver 0.01!")
 print("A basic Quad Equation looks like a*x^2+b*x+c")
 print("Please input the values for A, B and C!")
 
-a_value = int(input())
-b_value = int(input())
-c_value = int(input())
+a_value = int(input("a: "))
+b_value = int(input("b: "))
+c_value = int(input("c: "))
 
 a = a_value
 b = b_value
